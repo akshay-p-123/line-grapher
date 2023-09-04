@@ -6,7 +6,7 @@ to graph more types of functions (quadratic, cubic, exponential, logistic, etc.)
 
 The only system requirement is to have Python3 installed, which can be done [here](https://www.python.org/downloads/).
 
-Once downloaded, run main.py.
+Once downloaded, run `main.py`.
 
 From there, enter the color you want the line to be, the slope, and the y-intercept.
 ![image](https://github.com/akshay-p-123/line-grapher/assets/80610931/5de0b686-4dae-4687-a77b-1d13f1df274d)
